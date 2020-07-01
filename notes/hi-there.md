@@ -6,6 +6,6 @@ emoji: 👋
 link: https://code.makzan.net
 ---
 
-Hi there, I’m [Makzan](https://makzan.net). This is my code snippets library.
+Hi there, I’m [Makzan](https://makzan.net). This is my code snippets library. You can view the [update logs on Github](https://github.com/makzan/code.makzan.net/commits/master).
 
 This is a [Gatsby theme](https://zander.wtf/blog/code-notes-release) made by [Zander](https://zander.wtf).
