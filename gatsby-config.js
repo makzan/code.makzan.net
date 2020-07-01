@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'gatsby-starter-code-notes',
-    description: `A starter for gatsby-theme-code-notes`,
-    author: 'Zander',
+    title: 'Code Notes by Makzan',
+    description: "Code Snippets & Notes by Makzan",
+    author: 'Makzan',
   },
   plugins: [
     {
@@ -10,7 +10,7 @@ module.exports = {
       options: {
         contentPath: 'notes',
         basePath: '/',
-        showThemeInfo: true,
+        showThemeInfo: false,
         showDescriptionInSidebar: true,
       },
     },
