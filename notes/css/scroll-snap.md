@@ -1,7 +1,7 @@
 ---
 title: Scroll-Snap
 tags:
-  - css
+  - CSS
 emoji: 🖼
 ---
 

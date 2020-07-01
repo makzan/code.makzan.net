@@ -1,7 +1,7 @@
 ---
 title: Prefers dark mode in CSS
 tags:
-  - css
+  - CSS
 emoji: 🌗
 ---
 

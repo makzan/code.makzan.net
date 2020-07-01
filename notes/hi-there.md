@@ -1,7 +1,7 @@
 ---
 title: Hi there
 tags:
-  - post
+  - Note
 emoji: 👋
 link: https://code.makzan.net
 ---
