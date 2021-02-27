@@ -3,6 +3,8 @@ title: Scroll-Snap
 tags:
   - CSS
 emoji: 🖼
+created: 2019-06-02
+modified: 2019-06-02
 ---
 
 The `scroll-snap` CSS has [updated to new syntax](https://www.fxsitecompat.com/en-CA/docs/2019/legacy-css-scroll-snap-syntax-support-has-been-dropped/). Here is a demo of using the latest syntax of scroll-snap and also making it mobile friendly.

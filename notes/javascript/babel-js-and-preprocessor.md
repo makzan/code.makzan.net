@@ -3,6 +3,8 @@ title: BabelJS and JavaScript Pre-Processor
 tags:
   - JavaScript
 emoji: ⚙️
+created: 2021-02-06
+modified: 2021-02-06
 ---
 
 

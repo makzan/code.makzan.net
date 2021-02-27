@@ -3,6 +3,8 @@ title: Prefers dark mode in CSS
 tags:
   - CSS
 emoji: 🌗
+created: 2018-11-01
+modified: 2018-11-01
 ---
 
 We can use `prefers-color-scheme` media query for dark/light mode styles.

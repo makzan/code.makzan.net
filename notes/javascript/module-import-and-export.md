@@ -3,6 +3,8 @@ title: JavaScript Import and Export Module
 tags:
   - JavaScript
 emoji: ⤵️
+created: 2021-02-06
+modified: 2021-02-06
 ---
 
 

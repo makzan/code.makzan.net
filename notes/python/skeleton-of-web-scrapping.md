@@ -4,6 +4,8 @@ tags:
   - Python
   - Web Scrapping
 emoji: 🤖
+created: 2020-07-01
+modified: 2020-07-01
 ---
 
 This is the skeleton of web scrapping with `BeautifulSoup`

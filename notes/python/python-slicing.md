@@ -3,6 +3,8 @@ title: Python slicing
 tags:
   - Python
 emoji: 🍣
+created: 2020-07-01
+modified: 2020-07-01
 ---
 
 

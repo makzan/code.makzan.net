@@ -3,6 +3,8 @@ title: Create unicode mb4 database
 tags:
   - MySQL
 emoji: ⚙️
+created: 2020-10-12
+modified: 2020-10-12
 ---
 
 ```mysql

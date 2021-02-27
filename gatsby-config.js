@@ -12,6 +12,7 @@ module.exports = {
         basePath: '/',
         showThemeInfo: false,
         showDescriptionInSidebar: true,
+        showDate: true,
       },
     },
   ],

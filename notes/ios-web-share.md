@@ -5,6 +5,8 @@ tags:
   - Android
   - JavaScript
 emoji: 📤
+created: 2019-05-18
+modified: 2019-05-18
 ---
 
 ![Web Share Screenshot](./images/ios-web-share.png)
