@@ -9,7 +9,7 @@ modified: 2021-03-04
 ---
 
 ```
-$ grep -B 5 -A 5 --color 'Search Query'
+$ grep -B 5 -A 5 --color "Search Query"
 ```
 
 For example, when I want to search for "svg fill"
