@@ -1,6 +1,6 @@
-# notes.makzan.net
+# code.makzan.net
 
-Code notes from [Makzan](https://makzan.net)
+Code notes from [Makzan](https://makzan.net).
 
 
 ---

@@ -53,7 +53,7 @@ Can I Use: Default Parameters
 
 [https://caniuse.com/mdn-javascript_functions_default_parameters](https://caniuse.com/mdn-javascript_functions_default_parameters)
 
-If we need to support old web browsers that were years ago. We will need to transform the modern syntax into
+If we need to support old web browsers that were years ago. We will need to transform the modern syntax into the following, usually via Babel transpiler.
 
 ```js
 var _obj$classroom;
